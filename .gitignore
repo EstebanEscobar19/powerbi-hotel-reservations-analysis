@@ -1,0 +1,12 @@
+# Archivos temporales del sistema operativo
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Archivos temporales de Microsoft Office y Power BI
+~$*
+*.pbix.autosave
+*.pbix.lock
+*.tmp
+*.bak
+*.log
